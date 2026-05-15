@@ -180,7 +180,7 @@ importers:
         specifier: ^2.1.1
         version: 2.1.1
       es-toolkit:
-        specifier: ^1.45.1
+        specifier: ^1.46.1
         version: 1.46.1
       estree-util-value-to-estree:
         specifier: ^3.5.0
@@ -210,7 +210,7 @@ importers:
         specifier: 16.1.7
         version: 16.1.7(@babel/core@7.29.0)(@playwright/test@1.59.1)(babel-plugin-react-compiler@1.0.0)(react-dom@19.2.5(react@19.2.5))(react@19.2.5)
       postcss:
-        specifier: ^8.5.8
+        specifier: ^8.5.14
         version: 8.5.14
       postcss-custom-media:
         specifier: ^12.0.1
